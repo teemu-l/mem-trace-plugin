@@ -1,0 +1,9 @@
+[Core]
+Name = Memory trace graph
+Module = mem_trace_graph
+
+[Documentation]
+Author = Teemu
+Version = 0.1
+Website = https://github.com/teemu-l/execution-trace-viewer
+Description = Memory trace graph
